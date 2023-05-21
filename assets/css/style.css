@@ -567,16 +567,7 @@ nav.fill ul li a:after {
 #temoignage{
   scroll-margin: 40px;
 }
-.about-us-section .about-text:before {
-  background: url(../images/text-bars.png);
-  content: "";
-  width: 28px;
-  height: 20px;
-  position: absolute;
-  top: -4px;
-  left:-9%;
-  right: 0;
-}
+
 .about-us-section .about-text{
   color: var(--e-global-color-secondary);
   margin-left: 36px;
